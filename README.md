@@ -7,6 +7,10 @@ deep-dive tab for whichever state you configure, joining its generating
 fleet, active weather alerts, reported customer outages, and out-of-service
 generators into one view.
 
+<img width="871" height="870" alt="gridwatch" src="https://github.com/user-attachments/assets/249a77e0-ec29-4771-a758-1d3bd45e7763" />
+
+---
+
 It is one HTML file. Open it from disk, serve it from anywhere, or host it
 behind a URL — there is no build step, no framework and no server component
 in the page itself. Most of it talks straight to the EIA Open Data API, the
